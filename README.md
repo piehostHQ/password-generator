@@ -33,13 +33,6 @@ Clone the repository:
 git clone https://github.com/piehostHQ/password-generator.git
 ```
 Open the index.html file in any modern web browser.
-Folder Structure
-```
-password-generator/
-│
-├── index.html      # Main HTML file
-├── style.css       # Inline CSS (embedded in HTML)
-└── script.js       # Inline JavaScript (embedded in HTML)
 
 
 
